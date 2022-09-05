@@ -1,0 +1,98 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+.container{
+    width: 900px;
+    height: 530px;
+    top: -1px;
+    left: 415.5px;
+    position: absolute;
+    background-color: #264eea;
+    margin-top: 30px;
+    display: flex;
+}
+.spiral{
+    height: 530px;
+    width: 400px;
+    position: absolute;
+    top: 0px;
+    left: 500px;
+    rotate: 0deg;
+
+}
+.cart{
+    width: 60px;
+    height: 80px;
+    top: 121px;
+    left: 256px;
+    position: absolute;
+    bottom: 40px;
+    border: 3px solid white;
+
+}
+.image{
+    position: absolute;
+    height: 20px;
+    width: 15px;
+    top: 295px;
+    left: 125px;
+    background-color: #264eea;
+    display: inline-block;
+}
+.pword{
+    position: absolute;
+    height: 20px;
+    width: 15px;
+    top: 350px;
+    left: 125px;
+    display: inline-block;
+    background-color: #264eea;
+
+}
+.box{
+    box-sizing: border-box;
+    position: absolute;
+    border: 1px solid white;
+    border-radius: 4px;
+    height: 45px;
+    width: 300px;
+    top: 340px;
+    left: 120px;
+    padding-left: 40px;
+    background-color: transparent;
+
+}
+.box-1{
+    box-sizing: border-box;
+    position: absolute;
+    border: 1px solid white;
+    border-radius: 4px;
+    height: 45px;
+    width: 300px;
+    top: 280px;
+    left: 120px;
+    padding-left: 40px;
+    background-color: transparent;
+}
+#btn{
+    box-sizing: border-box;
+    position: absolute;
+    border: 1px solid white;
+    border-radius: 4px;
+    height: 45px;
+    width: 300px;
+    left: 120px;
+    top: 410px;
+    color: #264eea;
+}
+.forgot{
+    top: 460px;
+    left: 308px;
+    color: white;
+    position: absolute;
+
+}
